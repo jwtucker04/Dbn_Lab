@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DDD3Promgram/1.0.0": {
+        "runtime": {
+          "DDD3Promgram.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DDD3Promgram/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
