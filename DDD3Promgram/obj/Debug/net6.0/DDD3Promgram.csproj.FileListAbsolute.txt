@@ -1,0 +1,14 @@
+C:\Users\jwtuc\source\repos\DDD3\DDD3Promgram\bin\Debug\net6.0\DDD3Promgram.exe
+C:\Users\jwtuc\source\repos\DDD3\DDD3Promgram\bin\Debug\net6.0\DDD3Promgram.deps.json
+C:\Users\jwtuc\source\repos\DDD3\DDD3Promgram\bin\Debug\net6.0\DDD3Promgram.runtimeconfig.json
+C:\Users\jwtuc\source\repos\DDD3\DDD3Promgram\bin\Debug\net6.0\DDD3Promgram.dll
+C:\Users\jwtuc\source\repos\DDD3\DDD3Promgram\bin\Debug\net6.0\DDD3Promgram.pdb
+C:\Users\jwtuc\source\repos\DDD3\DDD3Promgram\obj\Debug\net6.0\DDD3Promgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jwtuc\source\repos\DDD3\DDD3Promgram\obj\Debug\net6.0\DDD3Promgram.AssemblyInfoInputs.cache
+C:\Users\jwtuc\source\repos\DDD3\DDD3Promgram\obj\Debug\net6.0\DDD3Promgram.AssemblyInfo.cs
+C:\Users\jwtuc\source\repos\DDD3\DDD3Promgram\obj\Debug\net6.0\DDD3Promgram.csproj.CoreCompileInputs.cache
+C:\Users\jwtuc\source\repos\DDD3\DDD3Promgram\obj\Debug\net6.0\DDD3Promgram.dll
+C:\Users\jwtuc\source\repos\DDD3\DDD3Promgram\obj\Debug\net6.0\refint\DDD3Promgram.dll
+C:\Users\jwtuc\source\repos\DDD3\DDD3Promgram\obj\Debug\net6.0\DDD3Promgram.pdb
+C:\Users\jwtuc\source\repos\DDD3\DDD3Promgram\obj\Debug\net6.0\DDD3Promgram.genruntimeconfig.cache
+C:\Users\jwtuc\source\repos\DDD3\DDD3Promgram\obj\Debug\net6.0\ref\DDD3Promgram.dll
